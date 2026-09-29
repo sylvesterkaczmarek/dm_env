@@ -1,0 +1,12 @@
+{
+  "repo": "google-deepmind/dm_env",
+  "base_branch": "master",
+  "base": "91b46797fea731f80eab8cd2c8352a0674141d89",
+  "source": "dm_env/specs.py",
+  "test": "dm_env/discrete_array_bounds_test.py",
+  "issue_url": "https://github.com/google-deepmind/dm_env/issues/22",
+  "issue": 22,
+  "branch": "fix/discrete-array-integer-limits-20260929",
+  "title": "Validate DiscreteArray maxima against integer dtype limits",
+  "head": "3335013894f56fb598ef49ad60753c5ddde9fedf"
+}
